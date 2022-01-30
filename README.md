@@ -1,2 +1,2 @@
 # aplicacao-site-de-receitas
- Curso de introdução ao Django Alura: Modelo, rotas e views.
+ Curso Alura de introdução ao Django : Modelo, rotas e views.
